@@ -10,6 +10,6 @@ SpaceX's rocket launch is advertised to have an estimated cost of 62 million dol
 * Different analysis and machine learning classficiation modells were used to find the best models to use for prediction.
 ![](https://github.com/huongvo99/Winning-the-race-to-space/blob/main/image/image2.png)
 
-For Powerpoint presentation, click [here](https://github.com/huongvo99/Winning-the-race-to-space/blob/main/Huong%20Vo.%20Final.%20IBM%20DS_CAPSTONE%20PROJECT%2010.11.51%20AM.pdf).
+For Powerpoint presentation, click [here](https://github.com/huongtmvo/Case-study-Winning-the-race-to-space/blob/main/Final_presentation.pdf).
 
 For code files, click [here](https://github.com/huongvo99/Winning-the-race-to-space)
